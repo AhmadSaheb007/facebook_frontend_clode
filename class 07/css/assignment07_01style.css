@@ -1,0 +1,128 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,900&family=Zilla+Slab:wght@300&display=swap');
+
+.icon{
+    padding-top: 5px;
+    font-size: 12px;
+    color: black;
+}
+
+.set-bgImg{
+    height: 1000px;
+    width: 100%;
+
+    background:url(../viber_image_2023-07-26_01-40-44-859.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+
+.background{
+    display: flex;
+    justify-content: center;
+
+}
+
+.signUp{
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0.1px 0px 10px #718093;
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.signUpTitle-bar{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.short-box{
+    width: 47%;
+    height: 28px;
+    box-shadow: 0.1px 0px 2px #718093;
+    border: #718093;
+    border-radius: 3px;
+    background-color: #ecf1f7;
+}
+
+.long-box{
+    width: 99%;
+    height: 28px;
+    box-shadow: 0.1px 0px 2px #718093;
+    border: #718093;
+    border-radius: 3px;
+    background-color: #ecf1f7;
+        
+}
+
+.signUpBtn{
+    width: 50%;
+    height: 28px;
+    background-color: rgb(32, 177, 13);
+    font-size: large;
+    color: #ecf1f7;
+    box-shadow: 0.1px 0px 2px #718093;
+    border: #718093;
+    border-radius: 3px;
+
+}
+
+.radio-box{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.radio-border{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    height: 25px;
+    border: #718093;
+    box-shadow: 0.1px 0px 2px #718093;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.txtPadding{
+    padding-top: 5px;
+}
+
+.btnAlligner{
+    display: flex;
+    justify-content: center;
+}
+
+ .signUptxt{
+    font-size: 28px;
+ }
+
+ .additionalTxt{
+    font-size: 13px;
+    color: #718093;
+ }
+
+ .dividerLine{
+    color: #dcdde1;
+ }
+
+ .titleBar{
+    font-size: 12px;
+    color: #718093;
+ }
+
+ .iconColor{
+
+    color: #718093;
+    font-size: 20px;
+ }
+
+ p{
+    font-size: 11px;
+    color: #718093;
+ }
+ 
